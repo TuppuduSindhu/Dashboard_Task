@@ -1,7 +1,4 @@
-Here is a **perfect, clean, professional README.md** description for your **Superstore Sales Dashboard Project**.
-You can **copy–paste** this directly into your submission.
 
----
 
 # 📊 **Superstore Sales Dashboard – Power BI**
 
